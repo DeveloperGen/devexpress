@@ -93,7 +93,7 @@
             mongoDBQuery1.ActualName = "Client";
             mongoDBQuery1.Alias = null;
             mongoDBQuery1.CollectionName = "Client";
-            mongoDBQuery1.DatabaseName = "cribmaster_dev";
+            mongoDBQuery1.DatabaseName = "test";
             mongoDBSchemaNode5.Nodes.Add(mongoDBSchemaNode6);
             mongoDBSchemaNode5.Nodes.Add(mongoDBSchemaNode7);
             mongoDBSchemaNode5.Nodes.Add(mongoDBSchemaNode8);
